@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="add_a_note">Adicionar note</string>
+    <string name="alert_title">Deseja deletar item?</string>
+    <string name="alert_positive_button">Sim</string>
+    <string name="alert_negative_button">Não</string>
+    <string name="note_alvo">Note salvo!</string>
+    <string name="note_removido">Note removido!</string>
+</resources>

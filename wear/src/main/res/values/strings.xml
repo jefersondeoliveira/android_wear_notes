@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+    <string name="add_a_note">Adicionar note</string>
+    <string name="delete">Remover</string>
+    <string name="cancelado">Cancelado</string>
+    <string name="note_salvo">Note salvo!</string>
+    <string name="note_removido">Note removido!</string>
+</resources>
